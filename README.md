@@ -1,4 +1,4 @@
-Syntax i use to let you have a good view at my code
+## Syntax i use to let you have a good view at my code
 1. I don't reformat type of datetime, take the release_year merge with day and month in release_day and then > into csv file 
 awk -F";" '
 $16 != "" {
