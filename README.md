@@ -2,7 +2,7 @@
 
 So the important point in this project use with all cmd Linux no tool, package support
 
-## In this i will use Linux cmd to take the data follow the constrain
+
 
 ## 1. Sort Movies by Release Date (Month/Day)
 - Keep only rows where the release date exists ($16 != ""). Extract month and day from $16, then sort by:
