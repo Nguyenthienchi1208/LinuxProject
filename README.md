@@ -6,8 +6,8 @@ So the important point in this project use with all cmd Linux no tool, package s
 
 ## 1. Sort Movies by Release Date (Month/Day)
 - Keep only rows where the release date exists ($16 != ""). Extract month and day from $16, then sort by:
-Year ($19) descending
-Month descending
+Year ($19) descending,
+Month descending,
 Day descending
 - Command:
 	awk -F";" '
